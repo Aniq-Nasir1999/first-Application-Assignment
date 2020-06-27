@@ -1,0 +1,38 @@
+.main{
+    border: 2px solid rgb(0, 0, 0);
+    width: 164px;
+    margin: 0 auto;
+    background-color: teal;
+}
+.result{
+    width: 99%;
+    background-color:  rgb(255, 230, 0);
+    border: 1px solid white;
+    color: rgb(0, 0, 0);
+    
+}
+.clearBtn{
+    width: 100%;
+    background-color: White;
+    color: teal;
+    border: 1px solid rgb(0, 0, 0);
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.btn{
+    width: 35px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: 1px solid white;
+    margin: 1px;
+    border-radius: 10px;
+    
+}
+.btn-end{
+    width: 15%;
+    background-color: rgb(0, 0, 0);
+    border: 1px solid white;
+    color: white;
+    margin: 1px;
+    border-radius: 10px;
+}
